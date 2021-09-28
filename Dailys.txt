@@ -4,3 +4,11 @@ Martes: 	  Rafael Carrascal Pérez	73204605
 Miercoles: 	Héctor Rodríguez	1013625179
 Jueves:  	  Robinson Estiven Ramirez Herrera	1040738429
 Viernes: 	  David Guerrero Ceballos	1085941155
+
+Lunes 27/09/2021
+¿Qué hiciste ayer? *
+Se realizó lectura y revisión de Introducción a HTML5, CSS, Bootstrap. Se programó reunión con los integrantes del grupo para revisión de los roles y de las historias de usuario para este Sprint. Se actualiza cronograma del proyecto con las actividades a desarrollar durante las dos semanas del Sprint. Se inicia la actualización de Trello.
+¿Qué harás hoy? 
+Atender primera reunión del grupo en herramienta Teams para revisión a las actualizaciones de repositorio en GitHub y en Trello. Se actualizará en Trello la lista del segundo Sprint socializando y asignando las historias de usuario del Sprint. Se inicia revisión de plantillas en Bootstrap que puedan acercarnos a la interfaz de cada historia de usuario. Al final del día se espera tener la asignación de las historias de usuario a cada integrante del Grupo.
+¿Hay impedimentos en tu camino?
+Manejo y comandos de Bootstrap. Se revisaran fuentes de información al respecto y ejemplos sobre plantillas de la herramienta.
