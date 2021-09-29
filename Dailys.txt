@@ -12,3 +12,10 @@ Se realizó lectura y revisión de Introducción a HTML5, CSS, Bootstrap. Se pro
 Atender primera reunión del grupo en herramienta Teams para revisión a las actualizaciones de repositorio en GitHub y en Trello. Se actualizará en Trello la lista del segundo Sprint socializando y asignando las historias de usuario del Sprint. Se inicia revisión de plantillas en Bootstrap que puedan acercarnos a la interfaz de cada historia de usuario. Al final del día se espera tener la asignación de las historias de usuario a cada integrante del Grupo.
 ¿Hay impedimentos en tu camino?
 Manejo y comandos de Bootstrap. Se revisaran fuentes de información al respecto y ejemplos sobre plantillas de la herramienta.
+
+Martes 28/09/2021
+¿Qué harás hoy? 
+Se socializa en repositorio git hub la plantilla de bootstrap a utilizar en el proyecto a la espera de su aprobación. Con las historias de usuario registradas en trello comienza la asignación de las mismas. revisión de bootstrap, css y javascript para brindar mejor la experiencia del usuario.
+Acceso clase sobre javascript
+¿Hay impedimentos en tu camino?
+Establecer plantilla de bootstrap para el proyecto. dominio css y javascript
