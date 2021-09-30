@@ -1,7 +1,7 @@
 
 Lunes : 	  Carlos Jaramilo Marin	10139204
 Martes: 	  Rafael Carrascal Pérez	73204605
-Miercoles: 	Héctor Rodríguez	1013625179
+Miercoles: 	Andrés Sastoque 1002522438
 Jueves:  	  Robinson Estiven Ramirez Herrera	1040738429
 Viernes: 	  David Guerrero Ceballos	1085941155
 
@@ -19,3 +19,15 @@ Se socializa en repositorio git hub la plantilla de bootstrap a utilizar en el p
 Acceso clase sobre javascript
 ¿Hay impedimentos en tu camino?
 Establecer plantilla de bootstrap para el proyecto. dominio css y javascript
+
+Jueves 30/09/2021
+
+¿Qué harás hoy? 
+
+Se realizan algunas interfaces graficas pedidas en el sprint, se realiza su respectiva subida al repositorio remoto.
+Inmersion al grupo de trabajo del nuevo compañero, asignacion de nuevas tareas.
+
+¿Hay impedimentos en tu camino?
+Un compañero abandono el programa por lo que fue necesario reestructurar el plan de trabajo.
+
+
