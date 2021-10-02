@@ -1,7 +1,7 @@
 
 Lunes : 	  Carlos Jaramilo Marin	10139204
 Martes: 	  Rafael Carrascal Pérez	73204605
-Miercoles: 	Andrés Sastoque 1002522438
+Miercoles: 	  Andrés Sastoque 1002522438
 Jueves:  	  Robinson Estiven Ramirez Herrera	1040738429
 Viernes: 	  David Guerrero Ceballos	1085941155
 
@@ -30,4 +30,10 @@ Inmersion al grupo de trabajo del nuevo compañero, asignacion de nuevas tareas.
 ¿Hay impedimentos en tu camino?
 Un compañero abandono el programa por lo que fue necesario reestructurar el plan de trabajo.
 
-
+Viernes 1/10/2021
+¿Qué hiciste ayer?
+Ayer asistí a la capacitación de la profe Ximena que nos colaboró en resolver dudad e inquietudes.
+¿Qué harás hoy? 
+Hacer las interfaces gráficas correspondientes a mi persona o sino colaborar en algunas historias de usuario.
+¿Hay impedimentos en tu camino?
+El tiempo, estoy haciendo trabajos en la universidad; casi no tengo tiempo libre.
